@@ -32,6 +32,10 @@ font-size: 25px;
 color: #f9faf8;
 }
 
+ul li a:hover{
+    color: green;
+}
+
 main{
     display: flex;
     color: #f9faf8;
@@ -51,6 +55,10 @@ main{
     border: none;
 
    
+}
+
+.left-content .button:hover{
+background-color: green;
 }
 
 .left-content{
@@ -152,6 +160,10 @@ font-size: 30px;
     border-radius: 50px;
     border: 2px solid white;
     padding: 10px;
+}
+
+.footer .right .btm:hover{
+    background-color: green;
 }
 
 .bottom{
